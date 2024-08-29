@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat membuat janji temu pada tanggal yang sudah lewat. Namun web dapat membuat jadwalnya</description>
+   <name>Make Appointment with Past Dates (Failed)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>946d8190-6810-4bbd-b20f-824bf4113713</testCaseGuid>
+</TestCaseEntity>

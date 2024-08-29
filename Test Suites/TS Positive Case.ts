@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS Positive Case</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2edbea56-42c8-498f-b89e-1e60f9b54373</testSuiteGuid>
+   <testCaseLink>
+      <guid>bd8c0350-a7a3-4916-8cc8-599a26d1fe1c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Scenario/page_login/Positive Case/Login Success</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>02fff7a4-ab69-433a-86a9-701d59e14334</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Katalon Data/login-data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>02fff7a4-ab69-433a-86a9-701d59e14334</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>23f9b448-e328-4330-8e79-65f9787a8877</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>02fff7a4-ab69-433a-86a9-701d59e14334</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>6f0b700d-8527-4139-bbf7-b3ec08829b8d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f3c606ce-6bf7-497b-964e-259681f4dc50</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Scenario/page_make appointment/Positive Case/Make Appointment Success</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>712d642b-bd2a-4a32-b4d1-6ba1a0ce5773</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>99f79518-05ba-442d-a64d-8304d43e3a88</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9be1f3eb-5fd9-450a-8475-7645af827591</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2d3277ff-e28d-46a9-b7fe-2990f6c98623</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ae58f6c9-a2a7-4fd6-a53a-b0a2cee14e44</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
